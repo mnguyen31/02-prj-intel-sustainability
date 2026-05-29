@@ -3,4 +3,5 @@ Build an interactive webpage that presents Intel's sustainability goals in a tim
 
 Launch a Codespace to get started! Remember to Commit and Push your project changes to GitHub from Codespaces to prevent losing progress.
 
-h
+git commit --allow-empty -m "Trigger GitHub Pages rebuild"
+git push
